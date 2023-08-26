@@ -1,8 +1,8 @@
-# React + Vite
+# Nike Landing Page Clone
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+  - Responsive Nike Landing Page Clone
+  - Created with HTML, CSS and Tailwind
+  - Responsive Static Web Application
 
-Currently, two official plugins are available:
-
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## Take A Look At It : 
+  - <a href="https://fastidious-gnome-320c5a.netlify.app/" target="_blank">https://fastidious-gnome-320c5a.netlify.app/</a>
